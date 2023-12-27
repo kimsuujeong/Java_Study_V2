@@ -10,7 +10,7 @@ public class S_01_3 {
 		
 		double circle = radius*radius*PI;
 		
-		System.out.println("circle 크기= ""+circle);"
+		System.out.println("circle 크기= "+"circle");
 	}
 	
 
